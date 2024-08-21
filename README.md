@@ -1,4 +1,5 @@
 ## Hi there 👋
+![ArdenteSQ ](https://github.com/user-attachments/assets/f4fc6f97-c893-4119-a2c6-f944d2a0e4da)
 
 <!--
 **falconArdente/falconArdente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
