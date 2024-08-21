@@ -11,6 +11,7 @@
  - [Приложение для поиска вакансий на HeadHunter](https://github.com/falconArdente/HeadHunter_Job_Search_team). Коммандный проект, выступил в качестве лида;
  - [Приложение для поиска и прослушивания музыки на iTunes](https://github.com/falconArdente/iTunes_playlist_maker).
 
+В проектах представлена подробная документация для удобства работы.
  
 <!--[![falconArdente github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=falconArdente&theme=tokyo-night&from=2024-07-01&to=2024-08-01)](https://github.com/falconArdente/github-readme-activity-graph)
 -->
