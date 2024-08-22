@@ -5,9 +5,11 @@
 ![ArdenteSq195](https://github.com/user-attachments/assets/ce27a1a6-03e3-478f-9bcd-cca531887249)
 ![falconArdente's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconArdente&show_icons=true&theme=radical)
 
-Сейчас работаю над [android-приложением для управления программируемым контроллером автомобиля](https://github.com/falconArdente/Car-controller_android-application).
+## Проекты
+### В работе
+- [android-приложением для управления программируемым контроллером автомобиля](https://github.com/falconArdente/Car-controller_android-application).
 
-### Завершенные проекты:
+### Завершенные
  - [Приложение для поиска вакансий на HeadHunter](https://github.com/falconArdente/HeadHunter_Job_Search_team). Коммандный проект, выступил в качестве лида;
  - [Приложение для поиска и прослушивания музыки на iTunes](https://github.com/falconArdente/iTunes_playlist_maker).
 
