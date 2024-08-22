@@ -10,8 +10,8 @@
 - [Android-приложение для управления программируемым контроллером автомобиля.](https://github.com/falconArdente/Car-controller_android-application)
 
 ### Завершенные
- - [Приложение для поиска вакансий на HeadHunter.](https://github.com/falconArdente/HeadHunter_Job_Search_team/wiki) Коммандный проект, в котором я выступил в качестве лида;
- - [Приложение для поиска и прослушивания музыки на iTunes.](https://github.com/falconArdente/iTunes_playlist_maker/wiki)
+ - [Приложение для поиска вакансий на HeadHunter.](https://github.com/falconArdente/HeadHunter_Job_Search_team) Коммандный проект, в котором я выступил в качестве лида;
+ - [Приложение для поиска и прослушивания музыки на iTunes.](https://github.com/falconArdente/iTunes_playlist_maker)
 
 В процессе разработки выкладываю коротие ролики [на свой youTube-канал.](https://www.youtube.com/@igor_sokolov_dev)
  
