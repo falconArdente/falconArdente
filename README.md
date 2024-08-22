@@ -3,7 +3,7 @@
 Стараюсь делать мир чуть более приятным местом 😄! 
 
 ![ArdenteSq195](https://github.com/user-attachments/assets/ce27a1a6-03e3-478f-9bcd-cca531887249)
-![falconArdente's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconArdente&show_icons=true&theme=radical)
+![falconArdente's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconArdente&show_icons=true&theme=tokyo-night)
 
 ## Проекты
 ### В работе
