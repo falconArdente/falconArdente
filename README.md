@@ -7,7 +7,7 @@
 
 ## Проекты
 ### В работе
-- [android-приложением для управления программируемым контроллером автомобиля](https://github.com/falconArdente/Car-controller_android-application).
+- [Android-приложение для управления программируемым контроллером автомобиля.](https://github.com/falconArdente/Car-controller_android-application)
 
 ### Завершенные
  - [Приложение для поиска вакансий на HeadHunter.](https://github.com/falconArdente/HeadHunter_Job_Search_team/wiki) Коммандный проект, выступил в качестве лида;
