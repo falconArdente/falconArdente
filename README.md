@@ -1,6 +1,6 @@
 ## Привет! Меня зовут Игорь Соколов 👋
 Я занимаюсь android-разработкой чуть больше года, общий опыт в IT порядка 12 лет.
-Стараюсь делать мир чуть лучше! 
+Стараюсь делать мир лучше! 
 
 ![ArdenteSq195](https://github.com/user-attachments/assets/ce27a1a6-03e3-478f-9bcd-cca531887249)
 ![falconArdente's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconArdente&show_icons=true&theme=tokyo-night)
